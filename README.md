@@ -1,2 +1,2 @@
 # Snake-Revamped
-Ok lets try this snake game again
+A remake of the existing Snake Game developed for personal A-Level Project
